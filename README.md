@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/c++-3776AB.svg?&style=for-the-badge&logo=c++&logoColor=Blue" height="25"/>
 <img src="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=fff" height="25"/>
 <img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" height="25"/>
-<img src="https://img.shields.io/badge/css-E34F26.svg?&style=for-the-badge&logo=css3&logoColor=fff" height="25"/>
+<img src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" height="25"/>
 
   <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
@@ -42,7 +42,12 @@
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white" height="25"/>
-</p>
+<img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Angular-E23237.svg?&style=for-the-badge&logo=Angularjs&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Linux-fff.svg?&style=for-the-badge&logo=Linux&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white" height="25"/>
+
+  </p>
 
 
  ![](https://github-readme-stats.vercel.app/api?username=Raghvendra-user&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
