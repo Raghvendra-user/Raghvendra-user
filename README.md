@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/c++-3776AB.svg?&style=for-the-badge&logo=c++&logoColor=Blue" height="25"/>
 <img src="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=fff" height="25"/>
 <img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" height="25"/>
+<img src="https://img.shields.io/badge/css-E34F26.svg?&style=for-the-badge&logo=css3&logoColor=fff" height="25"/>
 
   <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
