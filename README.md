@@ -26,7 +26,8 @@
 - 📫 How to reach me: rs7241037@gmail.com
 
   
-#### 💻 Stack I Work With
+  
+### 💻 Stack I Work With
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
