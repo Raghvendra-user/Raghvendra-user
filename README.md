@@ -27,7 +27,8 @@
 
   
   
-### 💻 Stack I Work With
+ 
+  <h2 align='center'>💻 Stack I Work With</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
@@ -49,11 +50,13 @@
 
   </p>
 
+  <h2 align='center'>Github Stats</h2>
+<div align='center'>
+ <img src='https://github-readme-stats.vercel.app/api?username=Raghvendra-user&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515' heigth='200'>
+  
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Raghvendra-user&layout=compact' height='200'>
 
- ![](https://github-readme-stats.vercel.app/api?username=Raghvendra-user&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghvendra-user&layout=compact)](https://github.com/Raghvendra-user/github-readme-stats)
-
-<!--  [![Raghvendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raghvendra)](https://github.com/Raghvendra-user/github-readme-stats) -->
+  </div>
+<!--  [![Raghvendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raghvendra)] -->
 
  
