@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning everything that seems intresting.💡
 - ✨ I’m looking to collaborate on any good idea.🌟
-- 📫 How to reach me: rs7241037@gmail.com
+- 📫 How to reach me: rs7241037@gmail.com 👤
 
   
   
