@@ -1,4 +1,5 @@
-<h3 align='center'> < Hello world, I'm <a href="https://raghvendra.ml/" target="_blank">Raghvendra Singh Parihar</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img src='https://visitor-badge.glitch.me/badge?page_id=Raghvendra-user'>
+<h3 align='center'> < Hello world, It's <a href="https://raghvendra.ml/" target="_blank">Raghvendra</a> /> 
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img src='https://visitor-badge.glitch.me/badge?page_id=Raghvendra-user'>
 </h3>
 
   <h2 align='center'>Connect With Me &hearts;</h2>
@@ -21,8 +22,8 @@
   
  
 
-- 🌱 I’m currently learning everything that seems intresting.
-- I’m looking to collaborate on any good idea.
+- 🌱 I’m currently learning everything that seems intresting.💡
+- ✨ I’m looking to collaborate on any good idea.🌟
 - 📫 How to reach me: rs7241037@gmail.com
 
   
