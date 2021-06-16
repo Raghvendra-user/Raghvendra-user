@@ -8,7 +8,7 @@
 <div align='center'>  
   
 
-  <a href='https://www.raghvendra.ml'><img src='https://img.shields.io/badge/Website-ffffff?style=flat-square&logo=google-chrome&logoColor=black' height='50' width='200'/></a>
+  <a href='https://www.raghvendra.ml'><img src='https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=google-chrome&logoColor=black' height='50' width='200'/></a>
   <a href='https://instagram.com/raghvendra.singhparihar'><img src='https://img.shields.io/badge/-Instagram-ffffff?style=flat-square&logo=Instagram' height='50' width='200'/></a>
 
   <a href='https://www.linkedin.com/in/raghvendra-singh-parihar-4378621b3'><img src='https://img.shields.io/badge/-Linkedin-ffffff?style=flat-square&logo=Linkedin&logoColor=blue' height='50' width='200'/></a>
